@@ -1,3 +1,3 @@
 Resources.
 
-The Filter Friends App
+The Counter component and the Filter Friends App
