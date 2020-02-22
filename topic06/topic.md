@@ -1,3 +1,3 @@
-#  React: Improving app design.
+#  React: Design and Routing.
  
-Continue the themes of patterns, hooks and routing.
+Explain the Thinking in React design process. Introduct routing in a React app. Explore the Component composition pattern.
