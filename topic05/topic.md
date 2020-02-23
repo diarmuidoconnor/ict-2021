@@ -1,3 +1,3 @@
-#  React: Design and Routing.
+#  React: Introduction to Routing.
  
-Explain the Thinking in React design process. Introduct routing in a React app. Explore the Component composition pattern.
+See how to add navigation to a React app.
