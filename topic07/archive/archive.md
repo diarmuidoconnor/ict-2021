@@ -1,0 +1,3 @@
+Resources.
+
+Protected routes sample
