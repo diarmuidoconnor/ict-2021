@@ -8,5 +8,3 @@ ignorepin : 1213
 ignore    :
   - topic01-kg
   # - topic06
-  - topic07
-
