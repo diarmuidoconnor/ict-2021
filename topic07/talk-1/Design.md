@@ -1,3 +1,3 @@
-# React Design and Routing.
+# Patterns and Routing.
  
-Continue the explanation of both routing/navigation and design patters.
+Patterns covered include Render Props and Provider. Routing topics include: programmitic navigation; alternative Route.
