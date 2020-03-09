@@ -1,3 +1,3 @@
 # Web APIs using Express
 
-This topic explores API design and implementation using the Express web application framework.
+This topic explores Restful API design using Swagger and the OpenAPI specification.
