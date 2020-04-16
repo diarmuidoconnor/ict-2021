@@ -1,1 +1,1 @@
-# Enterprise Web Development resources, MSc ESS, 2020
+# Enterprise Web Development resources, MSc ESS, 2020.
