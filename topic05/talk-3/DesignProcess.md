@@ -1,3 +1,3 @@
-# ES6 top-up.
+# Thinking In React.
  
-A brief look at some more ES6 features that enables cleaner JS development.
+The React engineering team published a process for developing React apps, called 'Thinking In React'.
