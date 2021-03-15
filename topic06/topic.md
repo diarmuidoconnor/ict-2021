@@ -1,3 +1,3 @@
 #  React: Design and Routing.
  
-Explain the Thinking in React design process. Continue to add more navigation features to an app. Introduce Design patterns to this area of software development.
+Examine some further aspects of routing and design patterns in React app development.
