@@ -1,3 +1,3 @@
-# Designing React Apps.
+# React: Navigation and Design patterns
  
-Explain the design and development process promoted by the React designers - Thinking in React.
+Some further navigation and design techniques.
