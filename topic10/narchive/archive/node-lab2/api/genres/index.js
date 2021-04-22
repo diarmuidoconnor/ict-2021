@@ -1,12 +1,9 @@
 import express from 'express';
-import {
-  getGenres
-} from '../tmdb-api';
+import { genres } from './genresData';
 
 const router = express.Router();
-
 router.get('/', (req, res) => {
-  getGenres().then(genres => res.status(200).send(genres));
+    res.status(200).json(genres);
 });
 
 export default router;
